@@ -1,19 +1,16 @@
-# Project Overview
 
-This repository contains three main parts of a coding challenge, each structured within its respective folder. Each part includes its own `README.md` file for detailed explanations.
-
-## Repository Structure
-
-- **[Challenge Part 1](Challenge%20Part%201/readme.md)**
-- **[Challenge Part 2](Challenge%20Part%202/readme.md)**
-- **[Challenge Part 3](Challenge%20Part%203/readme.md)**
-
-## Demo/Tutorial Video ⭐
-
-Watch the full project demo/tutorial on YouTube: [Here](https://youtu.be/xsW-RDDcL5w)
+# **ECS Research Day Judge Assignment System**  
 
 
-## Getting Started
+## **Overview**  
+This project was developed during the **ECS Hackathon**, a 48-hour coding competition hosted by **Syracuse University College of Engineering and Computer Science**. Our goal was to design an **automated judge assignment system** for **ECS Research Day**, ensuring fairness, efficiency, and ease of use.  
 
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+## **Key Features**  
+🔹 **NLP-Driven Expertise Matching** – Judges were assigned based on their expertise using natural language processing.  
+🔹 **Constraint-Based Scheduling** – Ensured balanced workloads and optimal assignments.  
+🔹 **Real-Time Scoring Interface** – Provided a seamless evaluation experience.  
+🔹 **Automated Ranking Algorithm** – Simplified the selection of top research posters.  
+🔹 **End-to-End Execution** – Successfully deployed and ran flawlessly on the first try.  
+
+## **Impact**  
+Our system streamlined the evaluation process, allowing judges to focus on research rather than logistics. The success of our solution at the event highlighted the power of **intuitive design and automation** in academic settings.  
